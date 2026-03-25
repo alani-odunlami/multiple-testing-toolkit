@@ -9,6 +9,6 @@ setup(
         "pandas",
         "matplotlib"
     ],
-    author="Your Name",
+    author="Alani Odunlami",
     description="A toolkit for multiple hypothesis testing corrections (FDR, Bonferroni)",
 )
