@@ -80,3 +80,7 @@ This project demonstrates:
 - Translating statistical theory → real-world code
 - Understanding of multiple testing problems
 - Ability to build reusable data science tools
+
+## 📬 Feedback & Contributions
+
+Feel free to open issues or submit pull requests!
