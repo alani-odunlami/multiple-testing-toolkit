@@ -44,3 +44,7 @@ p_vals = [0.12, 0.03, 0.001, 0.20, 0.04,
 results = benjamini_hochberg(p_vals, alpha=0.05)
 
 print(results)
+
+## 📊 Example Output
+
+<img width="723" height="266" alt="image" src="https://github.com/user-attachments/assets/dd15306a-5878-4ccf-9ed3-1b25f49585af" />
