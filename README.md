@@ -64,3 +64,11 @@ This produces a plot where:
 - Points = sorted p-values
 - Line = BH threshold
 - ✅ Values below the line → rejected
+
+
+## 🚀 Future Improvements
+- Holm–Bonferroni method
+- Storey q-values
+- Integration with scikit-learn pipelines
+- CLI tool for quick analysis
+
