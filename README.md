@@ -72,3 +72,11 @@ This produces a plot where:
 - Integration with scikit-learn pipelines
 - CLI tool for quick analysis
 
+
+## ⭐ Why This Project Matters
+
+This project demonstrates:
+
+- Translating statistical theory → real-world code
+- Understanding of multiple testing problems
+- Ability to build reusable data science tools
