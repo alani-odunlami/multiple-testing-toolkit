@@ -34,3 +34,13 @@ This toolkit implements:
 - Very strict (minimises false positives)
 - Best for high-risk decisions
 
+
+⚡ Quick Start
+from fdr_toolkit.fdr import benjamini_hochberg
+
+p_vals = [0.12, 0.03, 0.001, 0.20, 0.04,
+          0.002, 0.15, 0.05, 0.30, 0.01]
+
+results = benjamini_hochberg(p_vals, alpha=0.05)
+
+print(results)
