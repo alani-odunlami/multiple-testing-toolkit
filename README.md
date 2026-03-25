@@ -1,5 +1,5 @@
 # multiple-testing-toolkit
-This repo is simple implementation of bonferroni and Benjamini-Hochberg Family-wise error rate (FWER) and False discovery rate (FDR)
+This repo is simple implementation of Bonferroni and Benjamini-Hochberg for Family-wise error rate (FWER) and False discovery rate (FDR).
 
 A Python toolkit for correcting multiple hypothesis testing problems using statistically rigorous methods like Benjamini–Hochberg (FDR) and Bonferroni correction.
 
