@@ -4,7 +4,7 @@ This repo is simple implementation of Bonferroni and Benjamini-Hochberg for Fami
 A Python toolkit for correcting multiple hypothesis testing problems using statistically rigorous methods like Benjamini–Hochberg (FDR) and Bonferroni correction.
 
 
-## 📌 The Problem
+## 📌 The Problem Statement
 When testing multiple hypotheses, the chance of false positives increases rapidly:
 
 - Testing 100 hypotheses at α = 0.05
