@@ -1,5 +1,11 @@
 import numpy as np
 
+"""
+The fdr for the three methods to consider in this work
+
+More details to be added later in due course.
+"""
+
 def bonferroni(p_values, alpha=0.05):
     p_values = np.array(p_values)
     m = len(p_values)
