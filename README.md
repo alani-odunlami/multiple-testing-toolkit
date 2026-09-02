@@ -17,7 +17,7 @@ This leads to misleading conclusions in:
 
 - A/B testing
 - Feature selection
-- Experimentation platforms
+- Experimentation platforms and so on
 
 
 ## 💡 The Solution
