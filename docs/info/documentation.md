@@ -2,6 +2,8 @@
 
 # Technical Problem-Solving Brief
 
+# This is the workflow pipeline pending further adjustment
+
 ## 1. Problem statement
 What problem am I trying to solve, and why does it matter?
 
